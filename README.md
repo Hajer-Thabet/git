@@ -1,1 +1,2 @@
 # git
+Pulling Method
